@@ -1,0 +1,4 @@
+#Tue Apr 23 16:40:40 PDT 2019
+base.0=/Users/dean/Desktop/ACM Android Project/Workshop 5/ACM_demo/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
